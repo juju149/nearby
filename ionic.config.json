@@ -1,0 +1,8 @@
+{
+  "name": "Nearby",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b202733e"
+}
